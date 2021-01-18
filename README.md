@@ -3,7 +3,7 @@ Three models are trained using a real-world data for rail transportation. The da
  ## The data preperation
 In this file, the data is integrated and prepared. The missing and redundant data are dealt with. 
  ## Modeling 
-In this file, three models are constructed and trained. We did feature selection and feature engineering to reduce the number of features and get rid of the redundant features that does not contribute in the overall performance of the model.
+In this file, three models are constructed and trained. We did feature selection and feature engineering to reduce the number of features and get rid of the redundant features that does not contribute to the overall performance of the model.
   ### Algorithms 
   * Random Forest
   * Gradiant Boosting Machines
