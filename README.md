@@ -7,7 +7,7 @@ In this file, the data is integrated and prepared. The missing and redundant dat
 In this file, three models are constructed and trained. We did feature selection and feature engineering to reduce the number of features and get rid of the redundant features that does not contribute to the overall performance of the model.
   ### Algorithms 
   * Random Forest
-  * Gradiant Boosting Machines
+  * Gradient  Boosting Machines
   * Supporting Vector Regressor
  
  ## Technologies 
