@@ -1,5 +1,6 @@
 # Duration Time Prediction
 Three models are trained using a real-world data for rail transportation. The data set contains different transportation types (rail, buses etc..) for more than 25 cities. We are working in a single city (Berlin) and specific type of transportation which is rail. The original data set contains more than 6 million records, but we reduced it to half a million. 
+link of data set from the nature journal: https://www.nature.com/articles/sdata201889
  ## The data preperation
 In this file, the data is integrated and prepared. The missing and redundant data are dealt with. 
  ## Modeling 
